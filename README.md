@@ -1,6 +1,6 @@
 # TaskSchedulerFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+This project is the frontend project of schedular
 
 ## Development server
 
